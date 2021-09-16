@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evaluation2SMS", "Evaluation2SMS.csproj", "{80764162-A3D4-4ED9-9067-D0CF52A0B4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestSMS", "..\NUnitTestSMS\NUnitTestSMS.csproj", "{0107100F-CD6C-4B90-8AF8-956AB4680FE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80764162-A3D4-4ED9-9067-D0CF52A0B4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80764162-A3D4-4ED9-9067-D0CF52A0B4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80764162-A3D4-4ED9-9067-D0CF52A0B4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80764162-A3D4-4ED9-9067-D0CF52A0B4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0107100F-CD6C-4B90-8AF8-956AB4680FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0107100F-CD6C-4B90-8AF8-956AB4680FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0107100F-CD6C-4B90-8AF8-956AB4680FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0107100F-CD6C-4B90-8AF8-956AB4680FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E11C0C-B3E8-4060-8B7D-A2EE7FCA8145}
+	EndGlobalSection
+EndGlobal
